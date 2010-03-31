@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% load i18n %}
+{% block title %}{{link_type.title}}{% endblock %}
+{% block content %}
+<table>
+		<tr>
+			<th>Dept</th>
+			{% for category in categories %}
+			<th>{{category.name}}</th>
+			{% endfor %}
+		</tr>
+	{% for dept,cat_matrix in matrix.items %}
+		<tr>
+			<th>{{dept}}</th>
+			{% for value in cat_matrix.values %}
+			<td>{% if value %}T
+				{% else %}
+				F
+				{% endif %}
+			</td>
+			{% endfor %}
+		</tr>
+	{% endfor %}
+	<tr>
+		
+{% endblock %}

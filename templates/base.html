@@ -1,0 +1,38 @@
+{% load i18n %} 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>OpenTheData &mdash; {% block title %}Home{% endblock %}</title> 
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <!--[if lt IE 7]>
+    <style type="text/css" media="screen">
+        #navbar li {
+            width: 50px;
+        }
+        #navbar li a:hover {color: #fff;}
+        #navbar li.selected a:hover {color: #02245c;}
+        #navbar li.selected a, #navbar li.selected a:visited {color: #02245c;}
+        #content {
+            width: 925px;
+           padding: 30px 10px 10px 10px;
+        }
+    </style>
+    <![endif]-->
+    {% block css %}{% endblock %}        
+    {% block js %}{% endblock %}
+</head>
+<body>
+<div id="page"> 
+    <div id="content-container">
+    	<div id="content">
+			</p>
+    		{% block content %}{% endblock %}
+		</div>
+	</div>
+   	<div class="page-border-runner"></div>
+    <div id="footer">
+    </div>
+</div>
+</body>
+</html>

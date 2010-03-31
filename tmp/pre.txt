@@ -1,0 +1,34 @@
+<div class="center">
+<h1 class="borderbottom"><a name="cont" id="cont">Yukon Surface Rights Board</a></h1>
+<!-- BEGIN DOCNAV | DEBUT DOCNAV-->
+<ul class="docNav">
+<li class="docNav width33">
+<a class="docNav" href="fed04-eng.asp">Previous Page</a></li>
+<li class="docNav width34">
+<a class="docNav" href="/inst/yus/fedtb-eng.asp">Table of Contents</a></li>
+<li class="docNav width33">
+<a class="docNav" href="fed06-eng.asp">Next Page</a>
+</li>
+</ul><br />
+<!-- END DOCNAV | FIN DOCNAV -->
+<h3 class="lightgreyBG">Information Holdings</h3>
+<h4>Institution-Specific Classes of Records</h4>
+<p><strong>Dispute Application File</strong><br />
+<strong><em>Description:</em></strong> Application forms describing the issue(s) in the
+dispute(s) and any subsequent Board orders, decisions, and reasons for
+decisions.<br />
+<strong><em>Document Types:</em></strong> surface rights, access rights to the land<br />
+<strong><em>Record Number:</em></strong> YSR DAF 2005</p>
+<br />
+<!-- BEGIN DOCNAV | DEBUT DOCNAV-->
+<ul class="docNav">
+<li class="docNav width33">
+<a class="docNav" href="fed04-eng.asp">Previous Page</a></li>
+<li class="docNav width34">
+<a class="docNav" href="/inst/yus/fedtb-eng.asp">Table of Contents</a></li>
+<li class="docNav width33">
+<a class="docNav" href="fed06-eng.asp">Next Page</a>
+</li>
+</ul><br />
+<!-- END DOCNAV | FIN DOCNAV -->
+</div>
